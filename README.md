@@ -5,10 +5,17 @@
   <span>Aplicação de controle financeiro</span>
 </p>
 
-
-
+<p align="center">
+  <img src="assets/home.jpeg" alt="">
+</p>
 
 ### Site 💻
 
-- [ Dev. Finance$](https://dev-finance-control.netlify.app/)
+- [Dev. Finance$](https://dev-finance-control.netlify.app/)
+
+## Linguagens: 🚀
+- HTML
+- CSS
+- JavaScript
+
 
